@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 Welcome to my github
+## I'm Xi Pang, currently a Ph.D. student in Purdue University
+## My research is focus on Database System
 <!--
 **px1900/px1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
