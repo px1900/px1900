@@ -1,6 +1,9 @@
-### Hi there 👋 Welcome to my github
-I'm Xi Pang, currently a Ph.D. student in Purdue University
-My research is focus on Database System
+### 👋 Hi there. Welcome to my github
+### 🎓 I'm a Ph.D. student at Purdue University
+### 🖥 Before that, I worked as a software engineer at Tiktok, ByteDance 
+### 🔍 My research is focus on Database System/ Cloud Native Database/ Distributed Database System
+### 👬 I'm looking to collaborate on developing cutting-edge cloud native database
+### 📫 You can reach me by email: pang65@purdue.edu
 <!--
 **px1900/px1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
