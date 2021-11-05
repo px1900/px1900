@@ -1,7 +1,7 @@
 ### 👋  Hi there. Welcome to my github
 ### 🎓  I'm a Ph.D. student at Purdue University
 ### 🖥  Before that, I worked as a software engineer at Tiktok, ByteDance 
-### 🔍  My research is focus on Database System/ Cloud Native Database/ Distributed Database System
+### 🔍  My research is focus on Database System/ Cloud Native Database/ Distributed System
 ### 👬  I'm looking to collaborate on developing cutting-edge cloud native database
 ### 📫  You can reach me by email: pang65@purdue.edu
 <!--
