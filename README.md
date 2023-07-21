@@ -4,7 +4,7 @@
 ### 🔍  My research is focus on Database System/ Cloud Native Database/ Distributed System
 ### 👬  I'm looking to collaborate on developing cutting-edge cloud native database
 ### 📫  You can reach me by email: pang65@purdue.edu
-### 📸  My personal website is px1900.com
+### 📸  My personal website is px1900.github.io
 <!--
 **px1900/px1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
